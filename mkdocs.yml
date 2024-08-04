@@ -1,1 +1,13 @@
-site_name: My Docs
+site_name: Konoha's world
+
+theme:
+  name: material
+
+plugins:
+  - search
+
+nav:
+  - Home: index.md
+  - About: about.md
+  - Contact: contact.md
+
