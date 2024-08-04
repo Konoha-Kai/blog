@@ -1,0 +1,2 @@
+# blog
+Record every progress
